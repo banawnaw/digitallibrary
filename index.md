@@ -13,9 +13,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) Andrea Hirata (2005)
 7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
 8. [Nebula](ebook/Nebula.pdf) - Tere Liye (2019)
-9. [Perahu Kertas](ebook/Perahu Kertas.pdf) Dewi Lestari (2009)
-10. [5 cm](ebook/5 cm.pdf) Donny Dhirgantoro (2005)
-11. [Resume](Resume.pdf) Dr. Tengku Siti Mariam (2025)
+9. [Perahu Kertas](ebook/Perahu Kertas.pdf)- Dewi Lestari (2009)
+10. [5 cm](ebook/5 cm.pdf) - Donny Dhirgantoro (2005)
+11. [Resume](ebook/Resume.pdf) - Dr Tengku Siti Mariam (2025)
 ---
 
 *Powered by GitHub Pages* 
