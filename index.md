@@ -15,7 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Nebula](ebook/Nebulapdf)
 9. [Perahu Kertas](ebook/PerahuKertaspdf)
 10. [5cm](ebook/5cmpdf)
-
+11. [Resume Internet & Manajemen Masyarakat Virtual](ResumeInternet&ManajemenMasyarakatVirtualpdf)
 ---
 
 *Powered by GitHub Pages* 
