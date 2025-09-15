@@ -7,14 +7,14 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 1. [Helpseeking](ebook/Helpseeking.pdf) - Sheila Pham MPH MA (2024)
 2. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2002)
-3. [Hujan](ebook/Hujan.pdf) - Tere Liye
-4. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Tere Liye
-5. [Dilan 1999](ebook/Dilan 1999.pdf)
-6. [Laskar Pelangi](ebook/Laskar Pelangi.pdf)
-7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye
-8. [Nebula](ebook/Nebula.pdf) - Tere Liye
-9. [Perahu Kertas](ebook/Perahu Kertas.pdf)
-10. [5cm](ebook/5cm.pdf)
+3. [Hujan](ebook/Hujan.pdf) - Tere Liye (2016)
+4. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Lella S chudori (2017)
+5. [Dilan 1999](ebook/Dilan 1999.pdf) Pidi Baiq (2014)
+6. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) Andrea Hirata (2005)
+7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
+8. [Nebula](ebook/Nebula.pdf) - Tere Liye (2019)
+9. [Perahu Kertas](ebook/Perahu Kertas.pdf) Dewi Lestari (2009)
+10. [5 cm](ebook/5 cm.pdf)
 11. [Resume Internet & Manajemen Masyarakat Virtual](ResumeInternet&ManajemenMasyarakatVirtual.pdf)
 ---
 
