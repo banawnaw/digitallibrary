@@ -9,7 +9,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Cantik itu Luka](ebook/CantikituLuka.pdf) - Eka Kurniawan (2015)
 3. [Hujan](ebook/Hujan.pdf) - Tere Liye
 4. [Laut Bercerita](ebook/LautBercerita.pdf) - Tere Liye
-5. [Dilan 1999](ebook/Dilan1999.pdf)
+5. [Dilan 1999](ebook/Dilan 1999.pdf)
 6. [Laskar Pelangi](ebook/LaskarPelangi.pdf)
 7. [Tentang Kamu](ebook/TentangKamu.pdf)
 8. [Nebula](ebook/Nebula.pdf)
