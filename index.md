@@ -20,7 +20,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 <a href="webti/halaman1.html"> halaman 1</a>
 <a href="webti/halaman2.html"> halaman 2</a>
 <a href="webti/halaman3.html"> halaman 3</a>
-<a href="webti/halaman4.html"> halaman 4</a>
+<meta name="webti/viewport" content="width=device-width, initial-scale=1.0">
 <a href="webti/halaman5.html"> halaman 5</a>
 ---
 *Powered by GitHub Pages* 
