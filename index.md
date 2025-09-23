@@ -23,7 +23,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 <a href="webti/halaman4.html"> halaman 4</a>|
 <a href="webti/halaman5.html"> halaman 5</a>|
 <a href="webti/halaman6.html"> halaman 6</a>|
-<a href="webti/halaman7.html"> halaman 7</a>
+<a href="webti/halaman7.html"> halaman 7</a>|
+<a href="banawnaw.github.io/digitallibrary/">Index</a>
 
 ---
 *Powered by GitHub Pages* 
